@@ -1,0 +1,24 @@
+h1 {
+    font-family: "Degular",sans-serif;
+    font-size: 4em;
+}
+
+article {
+    font-family: "Degular",sans-serif;
+    font-weight: 600;
+    padding: .5em 0;
+    margin: 100px;
+    padding: 0px;
+    background-color:   #CCFFFF;
+
+}
+
+img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 100%;
+    height: auto;
+  }
