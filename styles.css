@@ -1,6 +1,10 @@
+body {
+    background-color: #fcf5c7;
+}
 h1 {
     font-family: "Degular",sans-serif;
     font-size: 4em;
+    text-align: center;
 }
 
 article {
@@ -9,7 +13,8 @@ article {
     padding: .5em 0;
     margin: 100px;
     padding: 0px;
-    background-color:   #CCFFFF;
+    /*background-color:   #CCFFFF;*/
+    background-color:   #ffee93;
 
 }
 
