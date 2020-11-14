@@ -65,3 +65,8 @@ img {
   footer {
       color: #4b5b7c;
   }
+
+  .warning {
+      font-weight: bold;
+      color: red;
+  }
